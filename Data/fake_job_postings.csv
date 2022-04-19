@@ -1,0 +1,20 @@
+Variable,Use in Analysis,Needs Cleaning,Name,Remarks
+job_id,No,No,NA,
+title,Yes,Yes,,
+location,KIV,KIV,NA,
+department,No,NO,,Just concat with other strings
+salary_range,No,No,NA,
+company_profile,Yes,Yes,,
+description,Yes,Yes,,
+requirements,Yes,Yes,,
+benefits,Yes,Yes,,
+telecommuting,Yes,No,,
+has_company_logo,Yes,No,,
+has_questions,Yes,No,,
+employment_type,Yes,"Yes (3 Cat FT, NFT, Missing)",,
+required_experience,Yes,Yes,,Missing and NA to bucket together.
+required_education,Yes,Yes,,Missing and NA to bucket together.
+industry,Yes,No,,Just concat with other strings
+function,Yes,No,,Just concat with other strings
+fraudulent,Yes,No,,
+Missingness/Var,Yes,Yes,Kevin,
